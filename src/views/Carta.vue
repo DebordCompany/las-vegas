@@ -1,3 +1,3 @@
 <template>
-    soy reservas
+    soy carta
 </template>
