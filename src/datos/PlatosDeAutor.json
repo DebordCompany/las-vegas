@@ -1,0 +1,53 @@
+[
+    
+        {
+            "nombre": "Flores de alcachofas con sal negra del Himalaya y crujiente de jamón",
+            "descripcion": "Dos tiernos corazones de alcachofas confitados y coronados con un crujiente de jamón y sal negra.",
+            "precio": "8,00€",
+            "alergenos": "",
+            "imagen": ""
+        },
+        {
+            "nombre": "Ensalada di buffala",
+            "descripcion": "Lechuga, Tomate, Mozzarella, Pesto, Semillas de sésamo, una combinación extraordinaria. ",
+            "precio": "12,00€",
+            "alergenos": "K,J,F",
+            "imagen": ""
+        },
+        {
+            "nombre": "Oreja Pekinesa",
+            "descripcion": "Oreja de cerdo enharinada, frita y acompañada de salsa hoisin y cebolleta tierna, sin duda un clásico de Las Vegas.",
+            "precio": "9,50€",
+            "alergenos": "L,G,F",
+            "imagen": ""
+        },
+        {
+            "nombre": "Sardina ahumada con reducción de Martini rojo",
+            "descipcion": "Sardina ahumada de comercio local con una salsa de tomate y Martini rojo.",
+            "precio": "12,00€",
+            "alergenos": "A",
+            "imagen": ""
+        },
+        {
+            "nombre": "Shiitake, gulas y huevo trufado",
+            "descripcion": "Seta shiitake salteada con gulas y ajo, coronada con dos huevos escalfados y esencia de trufa",
+            "precio": "12,00€",
+            "alergenos": "A,E,G",
+            "imagen": ""
+        },
+        {
+            "nombre": "Costrones de cigala",
+            "descripcion": "Un arroz a banda reconvertido en croqueta, hacemos un arroz a banda con caldo de cigala y rape, lo hacemos una bola con la cola de la cigala dentro y a la freidora, se presenta acompañado de ali-oli y germinado de ajo.",
+            "precio": "7,50€",
+            "alergenos": "A,H,G,E,K",
+            "imagen": ""
+        },
+        {
+            "nombre": "Soldaditos de pavia",
+            "descripcion": "Un clásico de la gastronomía madrileña, esta es nuestra version, trocitos de bacalao rebozados acompañados de un pure de pimiento confitado.",
+            "precio": "9,50€",
+            "alergenos": "A,G,E",
+            "imagen": ""
+        }
+    
+    ]

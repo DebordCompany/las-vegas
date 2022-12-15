@@ -1,0 +1,216 @@
+{
+    "Autor": {
+        "titulo": "Platos de autor",
+        "data": [
+            {
+                "nombre": "Flores de alcachofas con sal negra del Himalaya y crujiente de jamón",
+                "descripcion": "Dos tiernos corazones de alcachofas confitados y coronados con un crujiente de jamón y sal negra.",
+                "precio": "8,00€",
+                "alergenos": "",
+                "imagen": ""
+            },
+            {
+                "nombre": "Ensalada di buffala",
+                "descripcion": "Lechuga, Tomate, Mozzarella, Pesto, Semillas de sésamo, una combinación extraordinaria. ",
+                "precio": "12,00€",
+                "alergenos": "K,J,F",
+                "imagen": ""
+            },
+            {
+                "nombre": "Oreja Pekinesa",
+                "descripcion": "Oreja de cerdo enharinada, frita y acompañada de salsa hoisin y cebolleta tierna, sin duda un clásico de Las Vegas.",
+                "precio": "9,50€",
+                "alergenos": "L,G,F",
+                "imagen": ""
+            },
+            {
+                "nombre": "Sardina ahumada con reducción de Martini rojo",
+                "descipcion": "Sardina ahumada de comercio local con una salsa de tomate y Martini rojo.",
+                "precio": "12,00€",
+                "alergenos": "A",
+                "imagen": ""
+            },
+            {
+                "nombre": "Shiitake, gulas y huevo trufado",
+                "descripcion": "Seta shiitake salteada con gulas y ajo, coronada con dos huevos escalfados y esencia de trufa",
+                "precio": "12,00€",
+                "alergenos": "A,E,G",
+                "imagen": ""
+            },
+            {
+                "nombre": "Costrones de cigala",
+                "descripcion": "Un arroz a banda reconvertido en croqueta, hacemos un arroz a banda con caldo de cigala y rape, lo hacemos una bola con la cola de la cigala dentro y a la freidora, se presenta acompañado de ali-oli y germinado de ajo.",
+                "precio": "7,50€",
+                "alergenos": "A,H,G,E,K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Soldaditos de pavia",
+                "descripcion": "Un clásico de la gastronomía madrileña, esta es nuestra version, trocitos de bacalao rebozados acompañados de un pure de pimiento confitado.",
+                "precio": "9,50€",
+                "alergenos": "A,G,E",
+                "imagen": ""
+            }
+        ]
+    },
+    "Ensaladas": {
+        "titulo": "Ensaladas",
+        "data": [
+            {
+                "nombre": "Ensalada de queso con vinagreta de mostaza y miel",
+                "descripcion": "Lechuga, tomate, queso fresco, nueces, pasas y rulo de cabra a la plancha, todo ello aliñado con miel mostaza",
+                "precio": "9,50€",
+                "alergenos": "G,D,J,K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Ensalada de Salmón, gulas y polvo de kiko",
+                "descripcion": "Lechuga, tomate, salmón ahumado, gulas salteadas con ajo y polvo de kiko para redondear la mezcla.",
+                "precio": "9,50€",
+                "alergenos": "A,J,G",
+                "imagen": ""
+            },
+            {
+                "nombre": "Ensalada de pimientos confitados con ventresca",
+                "descripcion": "Nuestros pimientos confitados con ventrsca de bonito, cebolla crujiente y crema de Modena son los ingredientes de la más popular de nuestras ensaladas .",
+                "precio": "10,00€",
+                "alergenos": "A,G",
+                "imagen": ""
+            }
+        ]
+    },
+    "Hamburguesas": {
+        "titulo": "Hamburguesas",
+        "data": [
+            {
+                "nombre": "Angus black",
+                "descripcion": "Lechuga, tomate, mostaza, mahonesa, 200g de la mejor carne Angus Black y cebolla caramelizada. Para que mas opciones sí esta es la buena.",
+                "precio": "10,00€",
+                "alergenos": "D,F,G,E,K",
+                "imagen": ""
+            }
+        ]
+    },
+    "Raciones": {
+        "titulo": "Raciones",
+        "data": [
+            {
+                "nombre": "Patatas al cabrales",
+                "descripcion": "Patatas cortadas estilo paja con salsa de cabrales, sí no las has probado, no has estado en Las Vegas",
+                "precio": "8,50€",
+                "alergenos": "G,K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Jamón ibérico con pan tumaca",
+                "descripcion": "Ración de jamón castillo de Azuaga acompañado de pan tumaca",
+                "precio": "21,50€",
+                "alergenos": "",
+                "imagen": ""
+            },
+            {
+                "nombre": "Queso Flor de Esqueva",
+                "descripcion": "",
+                "precio": "16,00€",
+                "alergenos": "K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Callos a la madrileña",
+                "descripcion": "Sí hay un plato tipico de Madrid son los callos a la madrileña, guiso de casqueria de los que te quitan el sombrero.",
+                "precio": "10,00€",
+                "alergenos": "",
+                "imagen": ""
+            },
+            {
+                "nombre": "Morcilla a la plancha",
+                "descripcion": "Crujiente por fuera, melosa por dentro, ¿Quien se puede resitir?",
+                "precio": "9,50€",
+                "alergenos": "",
+                "imagen": ""
+            },
+            {
+                "nombre": "Torreznos de Soria",
+                "descripcion": "Panceta de cerdo marinada y cocida a baja temperatura, dos minutos de freidora para que soufflé la corteza y a comer. Con estos nunca se falla",
+                "precio": "11,00€",
+                "alergenos": "K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Croquetas caseras",
+                "descripcion": "Tres variedades, las clásicas de jamón, las de setas y foie o las de calamares en su tinta. Todas tienen su momento o todas a la vez pidiendo una tabla degustación",
+                "precio": "10,00€",
+                "alergenos": "A,G,E,K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Huevos rotos con jamón ibérico",
+                "descripcion": "",
+                "precio": "12,50€",
+                "alergenos": "E",
+                "imagen": ""
+            },
+            {
+                "nombre": "Docena de gambas a la plancha",
+                "descripcion": "",
+                "precio": "8,50€",
+                "alergenos": "A",
+                "imagen": ""
+            },
+            {
+                "nombre": "Alcachofas crujientes con queso idiazabal",
+                "descripcion": "Corazoncitos de alcachofa muy fritos acompañados de crema de pimientos confitados y queso idiazabal",
+                "precio": "12,00€",
+                "alergenos": "G,K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Revuelto de morcilla",
+                "descripcion": "",
+                "precio": "7,50€",
+                "alergenos": "E,K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Revuelto de bacalao a la dorada",
+                "descripcion": "Nos encanta el bacalao y no podia faltar esta receta tan iconica, revuelto de bacalao con patatas paja (Bacalao à Brás) ",
+                "precio": "11,00€",
+                "alergenos": "A,G,E",
+                "imagen": ""
+            }
+        ]
+    },
+    "Mar": {
+        "titulo": "Del mar",
+        "data": [
+            {
+                "nombre": "Calamares a la andaluza",
+                "descripcion": "",
+                "precio": "10,00€",
+                "alergenos": "A,G",
+                "imagen": ""
+            },
+            {
+                "nombre": "Sepia a la plancha con ali-oli",
+                "descripcion": "",
+                "precio": "13,50€",
+                "alergenos": "A,E,K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Pulpo a la plancha con mojo picón",
+                "descripcion": "Pure de patata, pulpo a la plancha, queso idiazabal y mojo picón. Una combinación ganadora",
+                "precio": "20,50€",
+                "alergenos": "A,F,K",
+                "imagen": ""
+            },
+            {
+                "nombre": "Calamares a la plancha con ali-oli",
+                "descripcion": "Un plato espectacular, no necesita venderse porque esta buenísimo",
+                "precio": "7,50€",
+                "alergenos": "A,E,K",
+                "imagen": ""
+            }
+        ]
+    }
+}

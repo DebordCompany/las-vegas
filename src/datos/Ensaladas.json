@@ -1,0 +1,24 @@
+[
+
+    {
+        "nombre": "Ensalada de queso con vinagreta de mostaza y miel",
+        "descripcion": "Lechuga, tomate, queso fresco, nueces, pasas y rulo de cabra a la plancha, todo ello aliñado con miel mostaza",
+        "precio": "9,50€",
+        "alergenos": "G,D,J,K",
+        "imagen": ""
+    },
+    {
+        "nombre": "Ensalada de Salmón, gulas y polvo de kiko",
+        "descripcion": "Lechuga, tomate, salmón ahumado, gulas salteadas con ajo y polvo de kiko para redondear la mezcla.",
+        "precio": "9,50€",
+        "alergenos": "A,J,G",
+        "imagen": ""
+    },
+    {
+        "nombre": "Ensalada de pimientos confitados con ventresca",
+        "descripcion": "Nuestros pimientos confitados con ventrsca de bonito, cebolla crujiente y crema de Modena son los ingredientes de la más popular de nuestras ensaladas .",
+        "precio": "10,00€",
+        "alergenos": "A,G",
+        "imagen": ""
+    }
+]

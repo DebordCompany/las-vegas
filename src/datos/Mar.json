@@ -1,0 +1,31 @@
+[
+    {
+        "nombre": "Calamares a la andaluza",
+        "descripcion": "",
+        "precio": "10,00€",
+        "alergenos": "A,G",
+        "imagen": ""
+    },
+    {
+        "nombre": "Sepia a la plancha con ali-oli",
+        "descripcion": "",
+        "precio": "13,50€",
+        "alergenos": "A,E,K",
+        "imagen": ""
+    },
+    {
+        "nombre": "Pulpo a la plancha con mojo picón",
+        "descripcion": "Pure de patata, pulpo a la plancha, queso idiazabal y mojo picón. Una combinación ganadora",
+        "precio": "20,50€",
+        "alergenos": "A,F,K",
+        "imagen": ""
+    },
+    {
+        "nombre": "Calamares a la plancha con ali-oli",
+        "descripcion": "Un plato espectacular, no necesita venderse porque esta buenísimo",
+        "precio": "7,50€",
+        "alergenos": "A,E,K",
+        "imagen": ""
+    }
+
+]

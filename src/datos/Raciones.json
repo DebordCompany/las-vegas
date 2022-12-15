@@ -1,0 +1,87 @@
+[
+    {
+        "nombre": "Patatas al cabrales",
+        "descripcion": "Patatas cortadas estilo paja con salsa de cabrales, sí no las has probado, no has estado en Las Vegas",
+        "precio": "8,50€",
+        "alergenos": "G,K",
+        "imagen": ""
+    },
+    {
+        "nombre": "Jamón ibérico con pan tumaca",
+        "descripcion": "Ración de jamón castillo de Azuaga acompañado de pan tumaca",
+        "precio": "21,50€",
+        "alergenos": "",
+        "imagen": ""
+    },
+    {
+        "nombre": "Queso Flor de Esqueva",
+        "descripcion": "",
+        "precio": "16,00€",
+        "alergenos": "K",
+        "imagen": ""
+    },
+    {
+        "nombre": "Callos a la madrileña",
+        "descripcion": "Sí hay un plato tipico de Madrid son los callos a la madrileña, guiso de casqueria de los que te quitan el sombrero.",
+        "precio": "10,00€",
+        "alergenos": "",
+        "imagen": ""
+    },
+    {
+        "nombre": "Morcilla a la plancha",
+        "descripcion": "Crujiente por fuera, melosa por dentro, ¿Quien se puede resitir?",
+        "precio": "9,50€",
+        "alergenos": "",
+        "imagen": ""
+    },
+    {
+        "nombre": "Torreznos de Soria",
+        "descripcion": "Panceta de cerdo marinada y cocida a baja temperatura, dos minutos de freidora para que soufflé la corteza y a comer. Con estos nunca se falla",
+        "precio": "11,00€",
+        "alergenos": "K",
+        "imagen": ""
+    },
+    {
+        "nombre": "Croquetas caseras",
+        "descripcion": "Tres variedades, las clásicas de jamón, las de setas y foie o las de calamares en su tinta. Todas tienen su momento o todas a la vez pidiendo una tabla degustación",
+        "precio": "10,00€",
+        "alergenos": "A,G,E,K",
+        "imagen": ""
+    },
+    {
+        "nombre": "Huevos rotos con jamón ibérico",
+        "descripcion": "",
+        "precio": "12,50€",
+        "alergenos": "E",
+        "imagen": ""
+    },
+    {
+        "nombre": "Docena de gambas a la plancha",
+        "descripcion": "",
+        "precio": "8,50€",
+        "alergenos": "A",
+        "imagen": ""
+    },
+    {
+        "nombre": "Alcachofas crujientes con queso idiazabal",
+        "descripcion": "Corazoncitos de alcachofa muy fritos acompañados de crema de pimientos confitados y queso idiazabal",
+        "precio": "12,00€",
+        "alergenos": "G,K",
+        "imagen": ""
+    },
+    {
+        "nombre": "Revuelto de morcilla",
+        "descripcion": "",
+        "precio": "7,50€",
+        "alergenos": "E,K",
+        "imagen": ""
+    },
+    {
+        "nombre": "Revuelto de bacalao a la dorada",
+        "descripcion": "Nos encanta el bacalao y no podia faltar esta receta tan iconica, revuelto de bacalao con patatas paja (Bacalao à Brás) ",
+        "precio": "11,00€",
+        "alergenos": "A,G,E",
+        "imagen": ""
+    }
+
+]

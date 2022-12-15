@@ -1,0 +1,14 @@
+[
+    {
+        "imagen":"",
+        "titulo":"Espaguetis de calamar",
+        "descripcion": "Nuestros famosos espaguetis de calamar, finas tiras de calamar salteadas con ajo guindilla y gambas ",
+        "precio":"14,00€"
+    },
+    {
+        "imagen":"",
+        "titulo":"Chupachups de pollo estilo sweet chilli korean",
+        "descripcion": "Chupachups de pollo estilo coreano un clasico de las vegas",
+        "precio":"8,50€"
+    }
+]

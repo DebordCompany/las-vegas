@@ -3,3 +3,20 @@
 
 
 
+.header {
+    background-color: var(--black);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    padding: 1em;
+    font-size: 1.5em;
+  }
+  
+  .max-width {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  hr {
+    border: 0.5px solid var(--black);}
