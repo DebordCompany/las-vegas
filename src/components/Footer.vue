@@ -5,9 +5,9 @@
         <h3 class="footer_container_h3">Las Vegas</h3>
         <a class="footer_container_tlf" href="tel:+34913014191">91 301 41 91</a>
         <div class="redes">
-            <a target="_blank" href="https://www.tripadvisor.es/Restaurant_Review-g187514-d20378969-Reviews-Cafeteria_Las_Vegas-Madrid.html" class="redes_a"><img src="../assets/img/logotipo-de-tripadvisor.png" alt="" class="redes_a_img"></a>
-            <a target="_blank" href="https://www.instagram.com/lasvegas7076/?hl=es" class="redes_a"><img src="../assets/img/logo_instagram.svg" alt="" class="redes_a_img"></a>
-            <a target="_blank" href="https://www.facebook.com/cafeteria.lasvegas.10" class="redes_a"><img src="../assets/img/facebook.png" alt="" class="redes_a_img"></a>
+            <a target="_blank" href="https://www.tripadvisor.es/Restaurant_Review-g187514-d20378969-Reviews-Cafeteria_Las_Vegas-Madrid.html" class="redes_a"><img src="img/logotipo-de-tripadvisor.webp" alt="" class="redes_a_img"></a>
+            <a target="_blank" href="https://www.instagram.com/lasvegas7076/?hl=es" class="redes_a"><img src="img/logo_instagram.svg" alt="" class="redes_a_img"></a>
+            <a target="_blank" href="https://www.facebook.com/cafeteria.lasvegas.10" class="redes_a"><img src="img/facebook.webp" alt="" class="redes_a_img"></a>
         </div>
         <div class="politica">
             <p class="politica_p">

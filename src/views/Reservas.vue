@@ -3,7 +3,7 @@ import formulario from "../components/formulario.vue";
 import tarjetaFotos from "../components/tarjetaFotos.vue";
 import tarjetaMenu from "../components/tarjetaMenu.vue";
 import especiales from "../datos/especiales.json";
-import oreja from "../assets/img/oreja_1.jpg"
+
 </script>
 
 <template>
@@ -24,7 +24,7 @@ import oreja from "../assets/img/oreja_1.jpg"
       <h3 class="menu_h3">Platos especiales de encargo</h3>
       <div class="carrousel" >
         <tarjetaFotos class="tarjeta_item" v-for="especiales in especiales" :key="especiales"
-        :imagen="oreja"
+        :imagen="especiales.imagen"
         :titulo="especiales.titulo"
         :descripcion="especiales.descripcion"
         :precio="especiales.precio"
@@ -96,10 +96,21 @@ hr {
 }
 .carrousel {
   color: black;
-  overflow: scroll;
+  overflow: auto;
   display: flex;
   gap: 1em;
   padding: 1em 0;
+}
+.carrousel::-webkit-scrollbar{
+  appearance: none;
+}
+.carrousel::-webkit-scrollbar-thumb{
+  background-color: #303030de;
+  border-radius: 25px;
+}
+.carrousel::-webkit-scrollbar:horizontal{
+  height: 10px;
+  
 }
 
 .tarjeta_item {

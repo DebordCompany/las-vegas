@@ -33,3 +33,6 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### conversor imagenes a webp  
+https://www.onlineimagetool.com/es/convert-png-jpg-webp-gif

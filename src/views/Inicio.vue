@@ -1,13 +1,11 @@
 <script setup>
 import tarjetaFotos from "../components/tarjetaFotos.vue";
-import gintonic from "../assets/img/gintonic.jpg";
-import terraza from "../assets/img/terrraza.jpg";
-import viernes from "../assets/img/viernes_las_vegas.png";
+
 </script>
 
 
 <template>
-  <img class="portada" src="../assets/img/portada_las_vegas.jpg" alt="portada" />
+  <img class="portada" src="img/portada_las_vegas.webp" alt="portada" />
   <div class="head air max-width">
     <p class="head_p">Dicen que las cosas buenas vienen en frasco pequeño</p>
     <hr />
@@ -31,15 +29,15 @@ import viernes from "../assets/img/viernes_las_vegas.png";
       <div class="container">
         
         <tarjetaFotos
-          :imagen="terraza"
+          imagen="img/terrraza.jpg"
           descripcion="Esta es nuestra terraza, el sitio perfecto para cenar con amigos"
         ></tarjetaFotos>
         <tarjetaFotos
-          :imagen="viernes"
+          imagen="img/viernes_las_vegas.webp"
           descripcion="Los viernes son sagrados, es nuestro día estrella, no olvides preguntar por los fuera de carta"
         ></tarjetaFotos>
         <tarjetaFotos
-          :imagen="gintonic"
+          imagen="img/gintonic.webp"
           descripcion="El after work es vital, ven a tomarte una copa con tus compañeros después del trabajo"
         ></tarjetaFotos>
       </div>

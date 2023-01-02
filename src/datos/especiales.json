@@ -1,14 +1,26 @@
 [
     {
-        "imagen":"",
+        "imagen":"img/espagueti.webp",
         "titulo":"Espaguetis de calamar",
         "descripcion": "Nuestros famosos espaguetis de calamar, finas tiras de calamar salteadas con ajo guindilla y gambas ",
         "precio":"14,00€"
     },
     {
-        "imagen":"",
+        "imagen":"img/pollo_korean.webp",
         "titulo":"Chupachups de pollo estilo sweet chilli korean",
         "descripcion": "Chupachups de pollo estilo coreano un clasico de las vegas",
         "precio":"8,50€"
+    },
+    {
+        "imagen":"img/chuleton.webp",
+        "titulo":"Chuletón de Ávila",
+        "descripcion": "500 g de la mejor carne de proximidad, criada con cariño y con un sabor increible",
+        "precio":"21,00€"
+    },
+    {
+        "imagen":"img/chof.webp",
+        "titulo":"Chof de calamar",
+        "descripcion": "Calamares a la plancha regados con salsa de su propia tinta, no os los podéis perder",
+        "precio":"14,00€"
     }
 ]

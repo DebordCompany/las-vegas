@@ -13,7 +13,7 @@ export default{
 <template>
    <nav  class="nav" :class="{'activo_nav': isActive}" >
     <div class="nav_icono" @click="isActive=!isActive">
-      <img src="../assets/img/menu.svg" alt="" />
+      <img src="img/menu.svg" alt="" />
     </div>
     
     <div  class="nav_enlaces" :class="{'activo': isActive}">
